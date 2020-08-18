@@ -12,7 +12,6 @@
   - [人月神话](#人月神话)
   - [Understanding Docker for Beginner](#understanding-docker-for-beginner)
   - [Alfred](#alfred)
-<<<<<<< Updated upstream
   - [人月神话](#人月神话)
   - [Understanding Docker for Beginner](#Understanding-Docker-for-Beginner)
   - [Alfred 使用技巧](#Alfred)
